@@ -1,0 +1,22 @@
+{
+  "alumnos": [
+    {
+      "legajo": "1",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "año": 2021
+    },
+    {
+      "legajo": "2",
+      "nombre": "María",
+      "apellido": "González",
+      "año": 2022
+    },
+    {
+      "legajo": "3",
+      "nombre": "Carlos",
+      "apellido": "López",
+      "año": 2021
+    }
+  ]
+}
